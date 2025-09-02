@@ -29,7 +29,7 @@
     "thumbnail": "modules/translation-core-it/media/cover.webp"
   }],
     
-  "url": "",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/CaliaG/translation-core-it",
+  "manifest": "https://raw.githubusercontent.com/CaliaG/translation-core-it/main/it-IT/module.json",
+  "download": "https://github.com/CaliaG/translation-core-it/archive/refs/heads/main.zip"
 }
