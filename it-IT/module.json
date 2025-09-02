@@ -1,0 +1,35 @@
+{
+  "id": "translation-core-it",
+  "title": "Core Italian Translation",
+  "description": "Add Italian language to FoundryVTT core.",
+  "version": "0.34",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "coreTranslation": true,
+
+  "authors": [{
+    "name": "Giuseppe Calia",
+  }],
+
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+    
+  "languages": [{
+  	"lang": "it",
+    "name": "Italian",
+    "path": "it.json"
+  }],
+
+  "media": [{
+    "type": "setup",
+    "url": "modules/translation-core-it/media/cover.webp",
+    "thumbnail": "modules/translation-core-it/media/cover.webp"
+  }],
+    
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
